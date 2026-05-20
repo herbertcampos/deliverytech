@@ -1,13 +1,13 @@
-package com.deliverytech.delivery_api;
+package com.deliverytech.deliverytech_fat;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DeliveryApiApplication {
+public class DeliverytechFatApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DeliveryApiApplication.class, args);
+		SpringApplication.run(DeliverytechFatApplication.class, args);
 	}
 
 }
